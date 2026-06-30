@@ -228,6 +228,10 @@ Potential future development directions include:
 ## Author
 
 Recep Atabey Demir
+Bartu Hacılar
+Mert Akkan
+Adnan Avcı
+Bersay Yakıcı
 
 ## License
 

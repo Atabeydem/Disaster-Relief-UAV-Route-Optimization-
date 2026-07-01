@@ -225,6 +225,10 @@ Potential future development directions include:
 * improving documentation for reproducible experiments
 * containerizing the project with Docker
 
+## Citation
+
+If you use this project in your research or academic work, please cite this repository and acknowledge the authors.
+
 ## Authors
 
 - Recep Atabey Demir

@@ -243,4 +243,4 @@ This repository was developed as a research project for reinforcement learning-b
 
 ## License
 
-This repository does not currently specify a license. Please contact the author before using or redistributing the project.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

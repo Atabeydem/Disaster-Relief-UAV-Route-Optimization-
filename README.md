@@ -237,6 +237,10 @@ If you use this project in your research or academic work, please cite this repo
 - Adnan Avcı
 - Bersay Yakıcı
 
+## Disclaimer
+
+This repository was developed as a research project for reinforcement learning-based UAV navigation in simulated disaster response scenarios. It is intended for research and educational purposes and should not be considered production-ready software for real-world emergency operations.
+
 ## License
 
 This repository does not currently specify a license. Please contact the author before using or redistributing the project.
